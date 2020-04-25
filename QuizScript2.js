@@ -1,14 +1,10 @@
 var counter = 0;
-//Page();
 function Page()
 {
 	counter++;
 	alert(counter);
 }
-//counter = Page.counter;
-//this.counter =  counter;
-//Page()
-//	Page.counter=0;
+
 	
 function Submit()
 {
