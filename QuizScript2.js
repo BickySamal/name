@@ -2,7 +2,7 @@ var counter = 0;
 function Page()
 {
 	counter++;
-	alert(counter);
+	//alert(counter);
 }
 
 	
